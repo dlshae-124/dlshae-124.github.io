@@ -113,6 +113,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yh02629@naver.com"
+      # url: "mailto:yh02629@naver.com"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +125,8 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dlshae-124"
+      # url: "https://github.com/dlshae-124"
+
 
 # Site Footer
 footer:
