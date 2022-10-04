@@ -4,7 +4,7 @@ layout: archive
 permalink: categories/Linux
 author_profile: true
 sidebar:
-	nav: "docs"
+    nav: "docs"
 ---
 
 { % assign posts = site.categories.Linux %}
