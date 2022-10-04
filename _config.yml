@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dlshae'__"
-title_separator          : "적어가면서 나아가려합니다<br>행복하세요"
+title                    : " "
+title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dlshae__"
 description              : "An amazing website."
