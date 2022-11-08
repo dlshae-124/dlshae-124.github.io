@@ -1,11 +1,11 @@
 ---
-title: "Linux"
+title: "AWS Cloud Formation"
 layout: archive
-permalink: categories/Linux
+permalink: categories/cloudformation
 author_profile: true
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories.Linux %}
+{% assign posts = site.categories.cloudformation %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -4,11 +4,36 @@ main:
     url: /index.html
   - title: "Category"
     url: /categories/
-  - title: "Tags"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Posts"
+    url: /year-archive/
+  #- title: "Tags"
+  #  url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Linux
+    children:
+      - title: "Linux Command"
+        url: categories/linuxcommand
+      - title: "Linux Server"
+        url: categories/linuxserver
+  
+  - title: DevOps
+    children:
+      - title: "Docker"
+        url: categories/docker
+  
+  - title: Cloud Service
+    children:
+      - title: "AWS"
+        url: categories/aws
+
+  - title: IaC
+    children:
+      - title: "AWS Cloud Formation"
+        url: categories/cloudformation
