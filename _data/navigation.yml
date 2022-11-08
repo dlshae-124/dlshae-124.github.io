@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /index.html
-   - title: "Posts"
+  - title: "Posts"
     url: /year-archive/
   - title: "Category"
     url: /categories/
