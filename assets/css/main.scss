@@ -7,3 +7,10 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@font-face {
+    font-family: 'Nanum OenSonJabiDoYeBbeo';
+    src: url('/assets/fonts/nanum.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-size: medium;
+}
