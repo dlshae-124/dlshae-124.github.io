@@ -2,18 +2,10 @@
 main:
   - title: "Home"
     url: /index.html
+   - title: "Posts"
+    url: /year-archive/
   - title: "Category"
     url: /categories/
-  - title: "Posts"
-    url: /year-archive/
-  #- title: "Tags"
-  #  url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
 
 docs:
   - title: Linux
