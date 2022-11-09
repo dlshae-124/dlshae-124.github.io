@@ -10,7 +10,7 @@ $border-color: #a9a9a9 !default;
 $code-background-color: #deb887 !default;
 $code-background-color-dark: #deb887 !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: #afeeee !default;
+$footer-background-color: mix($primary-color, #000, 10%) !default;
 $link-color: $primary-color !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
