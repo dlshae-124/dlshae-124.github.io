@@ -5,16 +5,16 @@
 /* Colors */
 $background-color: #FDF5E6 !default;
 $text-color: #696969 !default;
-$primary-color: #f21368 !default;
+$primary-color: #87ceeb !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: #FA8072 !default;
-$code-background-color-dark: #FA8072 !default;
+$code-background-color: #deb887 !default;
+$code-background-color-dark: #deb887 !default;
 $form-background-color: mix(#000, $background-color, 15%) !default;
 $footer-background-color: mix($primary-color, #000, 10%) !default;
 $link-color: $primary-color !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
-$masthead-link-color: $text-color !default;
+$masthead-link-color: #000 !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
