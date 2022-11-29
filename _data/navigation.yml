@@ -24,7 +24,7 @@ docs:
     children:
       - title: "AWS"
         url: categories/aws
-      - title: "Auzre"
+      - title: "Azure"
         url: categories/azure
 
   - title: IaC
