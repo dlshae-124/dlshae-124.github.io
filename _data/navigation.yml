@@ -24,6 +24,8 @@ docs:
     children:
       - title: "AWS"
         url: categories/aws
+      - title: "Azure"
+        url: categories/azure
 
   - title: IaC
     children:
@@ -34,3 +36,5 @@ docs:
     children:
       - title: IT
         url: categories/it
+      - title: Network
+        url: categories/network
