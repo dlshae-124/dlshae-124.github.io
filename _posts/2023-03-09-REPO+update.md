@@ -8,7 +8,7 @@ sidebar:
   nav: docs
 ---
 
-## /etc/yum.repos.d 內 파일 수정
+## /etc/yum.repos.d 내부 '.repo' 파일 수정 후
 
 `/etc/yum.repos.d` 하위에 있는 `.repo` 파일 수정 후에는
 
