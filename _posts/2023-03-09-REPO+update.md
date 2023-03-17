@@ -1,5 +1,5 @@
 ﻿---
-title: "[Linux Server] '/etc/yum.repos.d' 파일 수정 "
+title: "[Linux Server] '/etc/yum.repos.d' 내부 파일 수정 "
 date: '2023-03-09'
 categories: linuxserver
 toc: true
