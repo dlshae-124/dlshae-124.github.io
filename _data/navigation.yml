@@ -26,7 +26,8 @@ docs:
         url: categories/aws
       - title: "Azure"
         url: categories/azure
-
+      - title: "Cloud"
+        url: categories/cloud
   - title: IaC
     children:
       - title: "AWS Cloud Formation"
