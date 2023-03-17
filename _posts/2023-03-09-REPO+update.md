@@ -30,7 +30,12 @@ ___
  - `yum clean all`뒤에 `yum update`실행하면 수정한 `.repo` 파일 기반으로 새로 패키지 목록 다운을 받는다
  - `yum update 패키지명`인데 여기서 패키지명 지정하지 않으면 업데이트 가능한 모든 패키지를 업데이트한다!
 
+__
 
+#### `yum repolist --all`
+ - 얘는 참고해두면 좋을 듯 싶어서!
+ - 현재 설치된 repository의 list를 다 보여준다!
+ - 해당 repository가 활성화(enabled) 되었는지 아니면 비활성화(disabled) 되었는지 보여준다!!!!
 
 
 
