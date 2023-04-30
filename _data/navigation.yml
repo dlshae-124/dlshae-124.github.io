@@ -28,10 +28,12 @@ docs:
         url: categories/azure
       - title: "Cloud"
         url: categories/cloud
-  - title: IaC
-    children:
-      - title: "AWS Cloud Formation"
-        url: categories/cloudformation
+      - title: "OpenStack"
+        url:
+  #- title: IaC
+    #children:
+     # - title: "AWS Cloud Formation"
+       # url: categories/cloudformation
         
   - title: Etc
     children:
